@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "formik": "^2.4.5",
+    "primereact": "^10.5.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.8"
   },
   "devDependencies": {
     "@types/react": "^18.2.64",
